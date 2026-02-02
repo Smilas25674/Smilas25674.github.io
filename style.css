@@ -1,0 +1,20 @@
+img {
+    width: 400px;
+}
+
+
+body {
+    /* text-align: center; */
+    font-family: 'Arial';
+    background: rgb(42, 155, 155);
+}
+
+iframe {
+    
+    aspect-ratio: 16 / 9;
+    width: 33%;
+    height:100%;
+    border-radius: 20px; 
+    border-style: none;
+}
+
