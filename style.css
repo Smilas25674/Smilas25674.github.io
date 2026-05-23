@@ -18,18 +18,21 @@ iframe {
     border-style: none;
 }
 
-nav ul li {
-    float: left;
-}
-
 nav ul {
-    overflow: hidden;
-    background-color: #333333;
-    list-style-type: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+  display: flex;
 }
 
 nav ul li a {
-    display: block;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #111111;
 }
