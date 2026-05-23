@@ -5,6 +5,11 @@
   <title>Silas's Videos</title>
   <link>https://smilas25674.github.io/xml/videos.xml</link>
   <description>Silas's various videos (generally gaming) about a variety of topics</description>
+  <item>
+    <title>So I played Hollow Knight</title>
+    <link>https://www.youtube.com/watch?v=YBF5126RY1s</link>
+    <description>I finally did it</description>
+  </item>
 </channel>
 
 </rss>
