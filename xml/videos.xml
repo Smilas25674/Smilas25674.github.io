@@ -5,8 +5,13 @@
   <title>Silas's Videos</title>
   <link>https://smilas25674.github.io/xml/videos.xml</link>
   <description>Silas's various videos (generally gaming) about a variety of topics</description>
+    <item>
+    <title>Silksong, Act 2 EP1</title>
+    <link>https://www.youtube.com/watch?v=nYKjGJF9AX0</link>
+    <description>One act 2 episode every saturday</description>
+  </item>
   <item>
-    <title>Silksong, Act 1 E:1</title>
+    <title>Silksong, Act 1 EP1</title>
     <link>https://www.youtube.com/watch?v=cZ9p8YmGpDc</link>
     <description>"insert description here" - XML file formatting 2026</description>
   </item>
