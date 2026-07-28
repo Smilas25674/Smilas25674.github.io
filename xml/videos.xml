@@ -5,42 +5,65 @@
   <title>Silas's Videos</title>
   <link>https://smilas25674.github.io/xml/videos.xml</link>
   <description>Silas's various videos (generally gaming) about a variety of topics</description>
+  <lastBuildDate>Tue, 28 Jul 2026 12:00:00 GMT</lastBuildDate>
+
   <item>
     <title>Silksong Any% Speedrun - First PB!</title>
     <link>https://www.youtube.com/watch?v=eISmwHx0uyo</link>
-    <description>Bonus vid! (Not sure how RSS feed readers will handle this, but I updated the link bc it was wrong)</description>
+    <description>Bonus vid!</description>
+    <guid isPermaLink="false">eISmwHx0uyo</guid>
+    <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
   </item>
+
   <item>
     <title>Silksong, Act 2 EP4 - THE WORST AREA IN THE GAME</title>
-    <link>https://www.youtube.com/watch?v=qt3ZjR6xZOI</link>
+    <link>https://www.youtube.com/watch?v=nru5MWvbVXA</link>
     <description>One act 2 episode every saturday.</description>
+    <guid isPermaLink="false">nru5MWvbVXA</guid>
+    <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
   </item>
+
   <item>
     <title>Silksong, Act 2 EP3 - PROCRASTINATING LACE</title>
-    <link>https://www.youtube.com/watch?v=qt3ZjR6xZOI</link>
+    <link>https://www.youtube.com/watch?v=BM-zr9-UNfg</link>
     <description>In this episode, I procrastinate lace. Actually I keep procrastinating until the final episode.
                   One act 2 episode every saturday.</description>
+    <guid isPermaLink="false">BM-zr9-UNfg</guid>
+    <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
   </item>
+
   <item>
     <title>Silksong, Act 2 EP2</title>
     <link>https://www.youtube.com/watch?v=qt3ZjR6xZOI</link>
     <description>One act 2 episode every saturday</description>
+    <guid isPermaLink="false">qt3ZjR6xZOI</guid>
+    <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
   </item>
+
   <item>
     <title>Silksong, Act 2 EP1</title>
     <link>https://www.youtube.com/watch?v=nYKjGJF9AX0</link>
     <description>One act 2 episode every saturday</description>
+    <guid isPermaLink="false">nYKjGJF9AX0</guid>
+    <pubDate>Sun, 05 Jul 2026 12:00:00 GMT</pubDate>
   </item>
+
   <item>
     <title>Silksong, Act 1 EP1</title>
     <link>https://www.youtube.com/watch?v=cZ9p8YmGpDc</link>
     <description>"insert description here" - XML file formatting 2026</description>
+    <guid isPermaLink="false">cZ9p8YmGpDc</guid>
+    <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
   </item>
+
   <item>
     <title>So I played Hollow Knight</title>
     <link>https://www.youtube.com/watch?v=YBF5126RY1s</link>
     <description>I finally did it</description>
+    <guid isPermaLink="false">YBF5126RY1s</guid>
+    <pubDate>Sat, 23 May 2026 12:00:00 GMT</pubDate>
   </item>
+
 </channel>
 
 </rss>
