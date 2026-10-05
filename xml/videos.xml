@@ -5,7 +5,16 @@
   <title>Silas's Videos</title>
   <link>https://smilas25674.github.io/xml/videos.xml</link>
   <description>Silas's various videos (generally gaming) about a variety of topics</description>
-  <lastBuildDate>Sun, 13 Sep 2026 18:20:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 11:59:00 GMT</lastBuildDate>
+
+  <item>
+    <title>Playing Among Us</title>
+    <link>https://www.youtube.com/watch?v=aerk1pBE2oQ</link>
+    <description>Uploads on sunday from now on</description>
+    <guid isPermaLink="false">aerk1pBE2oQ</guid>
+    <pubDate>Sun, 04 Oct 2026 11:59:00 GMT</pubDate>
+  </item>
+
 
   <item>
     <title>Hamilton synced experiment thingy... idk</title>
