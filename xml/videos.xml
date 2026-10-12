@@ -5,7 +5,17 @@
   <title>Silas's Videos</title>
   <link>https://smilas25674.github.io/xml/videos.xml</link>
   <description>Silas's various videos (generally gaming) about a variety of topics</description>
-  <lastBuildDate>Sun, 04 Oct 2026 11:59:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 00:03:00 GMT</lastBuildDate>
+
+  <item>
+    <title>I made a lofi beat!</title>
+    <link>https://www.youtube.com/watch?v=ptrh1dH7NbA</link>
+    <description>My first fully produced song! I've made some (like 4-5) classically inspired sheet music in the past, 
+    but I haven't ever released it. I may record myself playing those and then release a video though. I'm trying to get
+    into composing regularly, and I will probably try to focus on a mix of sheet music and produced music (like this).</description>
+    <guid isPermaLink="false">ptrh1dH7NbA</guid>
+    <pubDate>Sun, 11 Oct 2026 00:03:00 GMT</pubDate>
+  </item>
 
   <item>
     <title>Playing Among Us</title>
