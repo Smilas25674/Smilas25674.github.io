@@ -5,7 +5,15 @@
   <title>Silas's Videos</title>
   <link>https://smilas25674.github.io/xml/videos.xml</link>
   <description>Silas's various videos (generally gaming) about a variety of topics</description>
-  <lastBuildDate>Sun, 11 Oct 2026 00:03:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 18:35:00 GMT</lastBuildDate>
+
+  <item>
+    <title>cringiest video i've ever made</title>
+    <link>https://www.youtube.com/watch?v=2h-KPtVFPaM</link>
+    <description>Tutorial about faking piano skills</description>
+    <guid isPermaLink="false">2h-KPtVFPaM</guid>
+    <pubDate>Sun, 18 Oct 2026 18:35:00 GMT</pubDate>
+  </item>
 
   <item>
     <title>I made a lofi beat!</title>
