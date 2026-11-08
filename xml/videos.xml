@@ -5,7 +5,15 @@
   <title>Silas's Videos</title>
   <link>https://smilas25674.github.io/xml/videos.xml</link>
   <description>Silas's various videos (generally gaming) about a variety of topics</description>
-  <lastBuildDate>Sun, 01 Nov 2026 19:09:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 20:15:00 GMT</lastBuildDate>
+
+  <item>
+    <title>Pantheon 4!!!</title>
+    <link>https://www.youtube.com/watch?v=-awKYEK_O6I</link>
+    <description>also new public video</description>
+    <guid isPermaLink="false">-awKYEK_O6I</guid>
+    <pubDate>Sun, 08 Nov 2026 20:15:00 GMT</pubDate>
+  </item>
 
   <item>
     <title>balcony timelapse</title>
